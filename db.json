@@ -1,7 +1,8 @@
 {
     "posts": [
        {
-"resultCode":"0000",
+"id": "dashboard",
+           "resultCode":"0000",
 "result":{
 "langPackCommonVer":"37.9",
 "langPackCommonUri":"https://objectstore.lgthinq.com/84e83396-100c-4480-81ad-f4fae33fec76?Expires=1630562971&Signature=aCl6evSJancEtglO33rhEA5gZxaPwvwvwPLMX--56FqAEQ94QjD1WD7OL9QDGtwNKkWNp153BL~~QgNDIuJRrI6wtRZrVrtkIkhwGixn8Ytga9V7RLQPpTUWfqCud5W7J3xerS3kyRu8RjYAOtGrjEZj8nEyd8per3PDuzJE7eznIoma8oBAAqLaV5Q81auITvuSEWeq0g65OaRdF9wIZPcpERYanscdSOp~gH1Wr5wCAynkTWFxBlV2D5-D1ad-FvdgImfB65hWeqMKvWLatJS9lBI9CaLFuem4rKeLkCFRCZZGwqJGpdECqob9GaR7plf~pjSnLIIKCL2Bt5~aeg__&Key-Pair-Id=APKAI74R6YENXPGRIWLQ",
