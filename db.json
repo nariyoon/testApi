@@ -1,137 +1,14 @@
 {
-   "posts": [
-      {
-         "id": "modelTypes",
-         "resultCode":"0000",
-         "result":{
-            "totalStep":0,
-            "itemDepth1":[
-               {
-                  "typeCode":"LI",
-                  "title":"생활가전",
-                  "totalStep":3,
-                  "registStepType":"",
-                  "deviceType":"",
-                  "ssid":"",
-                  "imageFileName":"",
-                  "imgFileSeqNo":"",
-                  "thumbImgFileSeqNo":"",
-                  "image":"",
-                  "displayErrorCode":"N",
-                  "itemDepth2":[
-                     {
-                        "typeCode":"LA04",
-                        "title":"NEW 스타일러",
-                        "totalStep":4,
-                        "registStepType":"1,2,3",
-                        "deviceType":"203",
-                        "ssid":"LG_Smart_Styler",
-                        "imageFileName":"home_appliances_img_styler.png",
-                        "imgFileSeqNo":"1801311435000044",
-                        "image":"https://objectstore.lgthinq.com/6d9a4368-fde1-4d8b-aaab-ead3dc5b8b0e?Expires=1580951505&Signature=a-~zmifDWy67g7wJWqmFkJg32A286uamzaG36Ehgw6XcEtlTGkqsts51GhSYbMSSEObXcB-27G3AAsRt0V24wToFw~l5fDX9gbMJEHzcSuUp5ET9YWkdg5WzJrk-tZw1Q5nrhQQHB-Am6zHMAPD8X8DXqJztzTLGRZXmWH7MdjWpZU438iVkSeWZ6KO5ofagYIxHA1jLYcXlKa2qYOFUNKAM8yo5y-hJJ4VSxT-R-3IJwxELQei5nAcWIFn5dhus0mJ-oqT6EPP4Cn5LqTE0ycwc8Vtw~epw~xKSROyo2d412h3aErCE6hjYwjxOi2rChQovMSn4bYUxMQLG3UWbfw__&Key-Pair-Id=APKAI74R6YENXPGRIWLQ",
-                        "displayErrorCode":"Y",
-                        "ip": "192.168.120.254",
-                        "port": "5500",
-                        "guide": "ST",
-                        "imageIcon": "https://img.icons8.com/cotton/2x/christmas-star--v1.png",
-                        "gmodule": "GSM",
-                        "rmodule": "RSM"
-                     }
-                  ]
-               },
-               {
-                  "typeCode":"AI",
-                  "title":"에어컨/에어케어",
-                  "totalStep":3,
-                  "registStepType":"",
-                  "deviceType":"",
-                  "ssid":"",
-                  "imageFileName":"",
-                  "imgFileSeqNo":"",
-                  "thumbImgFileSeqNo":"",
-                  "image":"",
-                  "displayErrorCode":"N",
-                  "itemDepth2":[
-                     {
-                        "typeCode":"AI01",
-                        "title":"NEW 에어컨",
-                        "totalStep":3,
-                        "registStepType":"",
-                        "deviceType":"401",
-                        "ssid":"",
-                        "imageFileName":"home_appliances_img_ac.png",
-                        "imgFileSeqNo":"1801311435000018",
-                        "image":"https://objectstore.lgthinq.com/a4f6d35e-d865-4a2d-8b7e-136aa1eeae58?Expires=1580951448&Signature=t3q6SpuZkbvJapX3-vPdSa9sSWVomU378UiTPOHADqGTCiFUEUkDppJzFYEuf-v1XhbCQrfAWtcsrL0kytfdMb-pwk78mQfOtv9G-HZgkGv0QgnYyjdxRIL1Xxbbejdr13dkLDxqtlQSMg4Szz70BnqBHfIDWW38wG99o8TipsI1M2vdtNGVPYMNXjx-fe9Cy0OA-sJlcR3Xskb2-2xdaMduAno7g7zya6eLlt1GYqv2xBWbDKN7OO3wnH3zGpxtm0uxfqoo5D0E47fs9cN96Hal0sQXm~UhbM-8V0gx3S57NfM3wnJC-wYO37gPfQB7OJHD-sP2mn~EjVtJh7vN7A__&Key-Pair-Id=APKAI74R6YENXPGRIWLQ",
-                        "displayErrorCode":"N",
-                        "gmodule": "GAM",
-                        "rmodule": "RAM",
-                        "itemDepth3":[
-                           {
-                              "typeCode":"PAC",
-                              "title":"NEW 스탠드 에어컨",
-                              "totalStep":3,
-                              "registStepType":"",
-                              "deviceType":"401",
-                              "ssid":"LGEwhisen",
-                              "imageFileName":"ac_home_stand_airconditioner_img.png",
-                              "imgFileSeqNo":"1801311435000002",
-                              "image":"https://kic-qa-objectstore.lgthinq.com/04952e10-1584-4cd3-92d8-41d0bfae6022?Expires=1580950284&Signature=NK0ivCNoDSThuYuRwP4JG~9vVvqOvUWycHaHxVpkr6aZWMq~6aFrF0L-PQq8fq1o-yqOAGMlJXlZnXeioUv6urQGicQm9AesyC-MsVqtqvcc~7cPElr8LS89XFtJD2N7nbfYbOl5yYc37sPyaKoffSROAGHekZQw92LBnejdYS3aIklwrMoKr9wx~teo~G1xwc8VLf7360RVrSvgmmKBm9d~hXjDssk5vUGv65iaMZqbLzJ6JzDZr05ZSYqVAzpPb07poi9CH59JLb3OQY8E2PZdQa2ZX4TXbIaUioqJE~D9EOcDqx49bOMhjrBCzzI3H~-EG-G-oNorsBsOZlF9fw__&Key-Pair-Id=APKAJTGCC3TGFX6OTUJA",
-                              "displayErrorCode":"N",
-                              "ip": "192.168.1.1",
-                              "port": "9000",
-                              "guide": "AI",
-                              "imageIcon": "https://cdn.icon-icons.com/icons2/1975/PNG/512/nighttree_122922.png",
-                              "gmodule": "GAM",
-                              "rmodule": "RAM"
-                           }
-                        ]
-                     }
-                  ]
-               },
-               {  
-                  "typeCode":"IOT_SENSOR",
-                  "title":"IoT 기기",
-                  "totalStep":0,
-                  "registStepType":"",
-                  "deviceType":"",
-                  "ssid":"",
-                  "imageFileName":"",
-                  "imgFileSeqNo":"",
-                  "thumbImgFileSeqNo":"",
-                  "image":"",
-                  "displayErrorCode":"N",
-                  "ip":"",
-                  "port":"",
-                  "guideSuffix":"",
-                  "gmodule":"",
-                  "rmodule":"",
-                  "itemDepth2":[
-                     {  
-                        "typeCode":"SH07",
-                        "title":"NEW 스마트조명",
-                        "totalStep":3,
-                        "registStepType":"2",
-                        "deviceType":"4006",
-                        "ssid":"LG_Smart_Light",
-                        "imageFileName":"ic_iot_lighting.png",
-                        "imgFileSeqNo":"",
-                        "image":"",
-                        "displayErrorCode":"N",
-                        "ip":"192.168.120.254",
-                        "port":"5500",
-                        "guideSuffix":"IL",
-                        "gmodule":"ILM",
-                        "rmodule":"RLM",
-                        "imageIcon":"https://cdn.icon-icons.com/icons2/1975/PNG/128/tent_122925.png"
-                     }
-                  ]
-               }
-            ]
-         }
-      }
-   ],
-   "comments": [
-      { "id": 1, "body": "mui-dev comment", "postId": 1 }
-   ],
-   "profile": { "name": "eummui" }
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
